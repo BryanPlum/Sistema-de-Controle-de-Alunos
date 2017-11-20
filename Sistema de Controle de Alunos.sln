@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de Controle de Alunos", "Sistema de Controle de Alunos\Sistema de Controle de Alunos.csproj", "{7EA8F0E6-ED93-40FF-976B-0573E2F6FD1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA8F0E6-ED93-40FF-976B-0573E2F6FD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA8F0E6-ED93-40FF-976B-0573E2F6FD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA8F0E6-ED93-40FF-976B-0573E2F6FD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA8F0E6-ED93-40FF-976B-0573E2F6FD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0DE3500-92FB-47E9-9A5B-F3FE0E72F7BD}
+	EndGlobalSection
+EndGlobal
