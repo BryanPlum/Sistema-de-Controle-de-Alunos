@@ -20,5 +20,7 @@ namespace Sistema_de_Controle_de_Alunos.Models
         {
             base.Dispose(disposing);
         }
-    }
+
+        public DbSet<Usuario> Usuarios { get; set; }
+    }   
 }

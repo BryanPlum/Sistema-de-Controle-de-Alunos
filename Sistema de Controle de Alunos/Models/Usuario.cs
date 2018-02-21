@@ -49,9 +49,9 @@ namespace Sistema_de_Controle_de_Alunos.Models
         [Display(Name = "É Professor")]
         public bool Professor { get; set; }
 
-        public virtual ICollection<Grupo> Grupos { get; set; }
+        //public virtual ICollection<Grupo> Grupos { get; set; }
 
-        public virtual ICollection<DetalhesGrupo> GruposDetalhes { get; set; }
+       // public virtual ICollection<DetalhesGrupo> GruposDetalhes { get; set; }
 
     }
 }

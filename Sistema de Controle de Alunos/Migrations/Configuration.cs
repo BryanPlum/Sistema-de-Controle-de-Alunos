@@ -5,7 +5,7 @@ namespace Sistema_de_Controle_de_Alunos.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<Sistema_de_Controle_de_Alunos.Models.ControleContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<Models.ControleContext>
     {
         public Configuration()
         {
@@ -13,7 +13,7 @@ namespace Sistema_de_Controle_de_Alunos.Migrations
             AutomaticMigrationDataLossAllowed = true;
         }
 
-        protected override void Seed(Sistema_de_Controle_de_Alunos.Models.ControleContext context)
+        protected override void Seed(Models.ControleContext context)
         {
             //  This method will be called after migrating to the latest version.
 
